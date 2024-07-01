@@ -10,7 +10,7 @@ async function getResponse(req: NextRequest): Promise<NextResponse> {
       {
         action: 'link',
         label: 'Book now',
-        target: 'https://onchainkit.xyz',
+        target: 'https://xxd-base-hackaton.vercel.app/ticket',
       }
     ],
     image: {
